@@ -1,0 +1,54 @@
+li{
+    list-style: none;
+}
+
+header{
+    height:76px;
+    padding:0 15px;
+    margin:0 18px;
+}
+
+
+.header-right ul{
+    display: flex;
+    float: right;
+}
+.header-left{
+    float: left;
+}
+
+.header-left p{
+    font-size:1.1875rem;
+    font-weight: 100;
+    font-family: "heisei-mincho-std",sans-serif;
+    margin:0;
+}
+
+.header-right li{
+    padding:25px 15px 5px 15px;
+}
+
+.heading{
+color: #328fce;
+text-align: center;
+font-size: 30px;
+}
+
+.sub-heading{
+    font-size: 15px;
+    text-align:center;
+    padding-bottom: 20px;
+}
+
+.middle-pic{
+    width:50%;
+    float: left;
+    padding:15px;
+
+}
+
+.feature{
+    font-size:15.625;
+    line-height
+
+}
